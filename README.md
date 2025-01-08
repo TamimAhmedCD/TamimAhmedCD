@@ -27,6 +27,30 @@
 ### 🚀 About Me:
 Hi there! I'm Tamim Ahmed, an aspiring web developer from Bangladesh. I'm passionate about building creative and functional web applications, with a focus on both the front-end and back-end. Currently, I'm sharpening my skills in Full-Stack Development, MongoDB, and enhancing my frontend expertise.
 
+## Who I Am
+
+I’m **Tamim Ahmed**, an aspiring **web developer** from **Bangladesh**. I’m passionate about building web applications and constantly learning new technologies to improve my skills. My focus is on creating user-friendly, dynamic, and efficient web solutions.
+
+- Passionate about both **front-end** and **back-end** web development.
+- Always eager to learn new technologies and improve my skills.
+- Enthusiastic about designing and developing **creative** web solutions.
+- Focused on building **user-friendly** and **scalable** applications.
+- Experience with tools like **Adobe Illustrator**, **Photoshop**, and **InDesign** for web design.
+
+## What I Do
+
+- Develop full-stack web applications with modern technologies like **MongoDB**, **Node.js**, and **React**.
+- Design intuitive, responsive user interfaces with **HTML**, **CSS**, and **JavaScript**.
+- Create visually appealing designs using tools like **Adobe Illustrator**, **Photoshop**, and **InDesign**.
+- Build and maintain websites with clean and scalable code.
+
+## What Drives Me
+
+- The challenge of solving real-world problems with code.
+- A passion for continuously learning and exploring new web technologies.
+- The opportunity to make the web more interactive, user-friendly, and accessible.
+- The joy of bringing creative ideas to life through both design and development.
+
 ---
 
 ### 💡 Technologies I Work With
