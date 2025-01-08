@@ -92,7 +92,7 @@ I’m **Tamim Ahmed**, an aspiring **web developer** from **Bangladesh**. I’m 
 ---
 
 ### 📊 My GitHub Stats:
-<img alt="my state" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=TamimAhmedCD&show_icons=true&theme=transparent"/>
+<img alt="my state" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=TamimAhmedCD&show_icons=true&theme=transparent"/>
 <img alt="langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamimAhmedCD&layout=compact"/>
 
 ---
