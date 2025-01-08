@@ -32,7 +32,7 @@
 
 ### 📂 Featured Projects:
 #### Chill Gamer 🎮
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamimahmed&repo=Chill-Gamer&theme=radical)](https://github.com/tamimahmed/Chill-Gamer)
+[![ReadMe Card](https://github.com/TamimAhmedCD/chill-gamer-server)
 > **Description:** A gaming app for fun and relaxation.  
 
 #### Featured Blogs 📖  
