@@ -92,14 +92,17 @@ I’m **Tamim Ahmed**, an aspiring **web developer** from **Bangladesh**. I’m 
 ---
 
 ### 📊 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamimahmed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimahmed&layout=compact&theme=radical)
+<img alt="my state" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=TamimAhmedCD&show_icons=true&theme=transparent"/>
+<img alt="langs" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamimAhmedCD&layout=compact"/>
 
 ---
+<div height="500px">.</div>
 
+---
 ### 🔥 Fun Fact:
 - I’m a teenager, but I already love coding like a pro!  
 - My first web application is **Chill Gamer**, and I'm super proud of it! 🎉
+
 
 ---
 
