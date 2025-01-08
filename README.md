@@ -33,11 +33,38 @@
 
 ### 💡 Technologies I Work With
 
-- **Frontend**: HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | CSS3 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | React ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- **Frontend**:  
+  HTML5 | CSS3 | JavaScript | React  
+  <div align="right">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+    <img width="20" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+    <img width="20" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+    <img width="20" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  </div>
 
-- **Backend**: Node.js ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | Express ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- **Backend**:  
+  Node.js | Express | MongoDB  
+  <div align="right">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
+    <img width="20" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+    <img width="20" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo"  />
+  </div>
 
-- **Design**: Adobe Illustrator ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) | Adobe Photoshop ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) | Adobe InDesign ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-5C2D91?style=flat-square&logo=adobe-indesign&logoColor=white)
+- **Design**:  
+  Adobe Illustrator | Adobe Photoshop | Adobe InDesign  
+  <div align="right">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+    <img width="20" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+    <img width="20" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" height="40" alt="indesign logo"  />
+  </div>
+
 
 
 ---
