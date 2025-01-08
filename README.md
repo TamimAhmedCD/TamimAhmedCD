@@ -1,4 +1,10 @@
 <div align="center">
+  <img height="200" src="https://i.ibb.co.com/vmz7FTT/GitHub.jpg"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi%2C+I'm+Tamim+Ahmed!+🚀++;+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
