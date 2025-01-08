@@ -22,12 +22,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi%2C+I'm+Tamim+Ahmed!+🚀++;+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
+---
 
 ### 🚀 About Me:
-- 🌟 Aspiring **Web Developer** from Bangladesh 🇧🇩  
-- 🎮 Creator of **Chill Gamer**  
-- 🌱 Currently learning **MongoDB**, **Full-Stack Development**, and sharpening my **Frontend Skills**  
-- ✨ Passionate about building creative web applications and exploring new technologies.
+Hi there! I'm Tamim Ahmed, an aspiring web developer from Bangladesh. I'm passionate about building creative and functional web applications, with a focus on both the front-end and back-end. Currently, I'm sharpening my skills in Full-Stack Development, MongoDB, and enhancing my frontend expertise.
 
 ---
 
