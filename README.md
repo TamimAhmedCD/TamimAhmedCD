@@ -1,4 +1,5 @@
-# Hi, I'm Tamim Ahmed! 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi%2C+I'm+Tamim+Ahmed!+🚀;Welcome+to+my+GitHub+profile!)
+
 
 ### 🚀 About Me:
 - 🌟 Aspiring **Web Developer** from Bangladesh 🇧🇩  
