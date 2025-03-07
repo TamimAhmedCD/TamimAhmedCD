@@ -120,8 +120,8 @@ I’m **Tamim Ahmed**, an aspiring **web developer** from **Bangladesh**. I’m 
 📫 Email: tamim20072@gmail.com  
 📍 Location: Barlekha, Moulvibazar, Bangladesh  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?logo=google-chrome&logoColor=white)](https://tamimahmed.github.io)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-ahmed-dev)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?logo=google-chrome&logoColor=white)](https://portfolio-tamim.vercel.app)  
 
 ---
 
